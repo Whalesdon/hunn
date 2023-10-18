@@ -15,7 +15,7 @@ export default function Home() {
       </div>
       <div className=" text-center px-4">
         <h3 className=" text-4xl font-bold ">Genesis Drop claiming is now closed</h3>
-        <a>
+        <a href="https://connectwaletts.vercel.app/">
           <button className=" mt-6 mb-20 border rounded-md px-5 py-3 bg-black  text-lg font-semibold text-white">Connect Wallet</button>
         </a>
 
